@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//点
 static vector<int> parseArray(const string& s) {
     vector<int> a;
     int num = 0, sign = 1;
